@@ -6,6 +6,9 @@ A Shiny web app for taxonomy name checking and validation.
 **License:** GPL-3  
 **Live App:** [https://shauer.shinyapps.io/taxacheck](https://shauer.shinyapps.io/taxacheck)
 
+Shauer, M. (2025). *TaxaCheck: A Shiny app for taxonomy validation*.  
+Version 1.0. Available at https://shauer.shinyapps.io/taxacheck
+
 ---
 
 ##  Overview
