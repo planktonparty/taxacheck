@@ -82,7 +82,7 @@ All taxonomic data are retrieved directly from the selected database (GBIF, ITIS
 
 ---
 Shauer, M. (2025). *TaxaCheck: A Shiny app for taxonomy validation*.  
-Version 1.0. Available at https://shauer.shinyapps.io/taxacheck
+Version 1.0. Available at https://shauer.shinyapps.io/taxacheck DOI 10.5281/zenodo.17565096.
 
 ##  Local Installation (Optional)
 
